@@ -1,3 +1,11 @@
+## Intro
+
+In 2014, then-Mayor of London, Boris Johnson shut down 10 fire stations, despite the acknowledgement from London Fire and Emergency Planning Authority (LFEPA) that for some boroughs, the response times would increase between 1 to 45 seconds. 
+
+This repo contains the Python scripts used for data cleansing of London Fire Brigade (LFB) incident and mobilisation records between 2009-2016, in order to visualize (on Tableau) and assess:
+•	The activity levels of the stations prior to shut-down (comprared to the other stations)
+•	The impact of the station closures on the response times for the effected boroughs.
+
 ## Getting raw data
 
 London Fire Brigade (LFB) incident and mobilisation records have been downloaded from data.london.gov.uk in separate excel files: 
